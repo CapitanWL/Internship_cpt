@@ -1,0 +1,14 @@
+[
+  {
+    "firstConnectionString": "Server=WIN-CPTPC;Database=TestDB;Trusted_Connection=true;TrustServerCertificate=true",
+    "secondConnectionString": "Host=localhost;Port=5432;Database=DexmaDb;Username=TestStudent;Password=teststudent",
+    "firstProviderName": "MsSql",
+    "secondProviderName": "Postgres"
+  },
+  {
+    "firstConnectionString": "string",
+    "secondConnectionString": "string",
+    "firstProviderName": "string",
+    "secondProviderName": "string"
+  }
+]
